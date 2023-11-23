@@ -1,4 +1,4 @@
-# Kayan Abdelbaki web project
+# FlashType
 
 Typing speed game where players can compete against each other to climb the leaderboard.
 
