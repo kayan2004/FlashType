@@ -14,7 +14,7 @@ These instructions will help you get a copy of the project up and running on you
 
 Ensure you have the following software and packages installed:
 
-- Node.js: [Download Node.js](https://nodejs.org/)
+- Node.js
 - Node packages:
   "body-parser": "^1.20.2",
   "cors": "^2.8.5",
